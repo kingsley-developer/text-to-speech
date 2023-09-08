@@ -120,13 +120,6 @@
             "markers": "platform_system == 'Windows'",
             "version": "==1.2.0"
         },
-        "google-speech": {
-            "hashes": [
-                "sha256:9f5e7b87951110ba68608f1dea32bbe60d878a8e04ed41d02560f22abbc8b0d2"
-            ],
-            "index": "pypi",
-            "version": "==1.2.0"
-        },
         "idna": {
             "hashes": [
                 "sha256:814f528e8dead7d329833b91c5faa87d60bf71824cd12a7530b5526063d02cb4",
